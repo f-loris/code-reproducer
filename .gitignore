@@ -1,2 +1,19 @@
 *.class
 *.log
+.repl
+
+######################
+# Intellij
+######################
+.idea/**
+*.iml
+*.iws
+*.ipr
+*.ids
+*.orig
+
+.bsp
+.repl
+/target/**
+project/target/**
+project/project/target/**
